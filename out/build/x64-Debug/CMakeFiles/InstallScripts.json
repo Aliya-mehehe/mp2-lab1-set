@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/mukha/Desktop/mp2-lab1-set/out/build/x64-Debug/cmake_install.cmake",
+		"C:/Users/mukha/Desktop/mp2-lab1-set/out/build/x64-Debug/src/cmake_install.cmake",
+		"C:/Users/mukha/Desktop/mp2-lab1-set/out/build/x64-Debug/samples/cmake_install.cmake",
+		"C:/Users/mukha/Desktop/mp2-lab1-set/out/build/x64-Debug/gtest/cmake_install.cmake",
+		"C:/Users/mukha/Desktop/mp2-lab1-set/out/build/x64-Debug/test/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

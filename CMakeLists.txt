@@ -1,4 +1,7 @@
-cmake_minimum_required(VERSION 2.8)
+cmake_minimum_required(VERSION 3.15)
+add_compile_definitions(GTEST_HAS_TR1_TUPLE=0)
+set(CMAKE_CXX_STANDARD 14)
+
 
 set(PROJECT_NAME set)
 project(${PROJECT_NAME})
